@@ -438,6 +438,7 @@ export const FETCH_USER = gql`
       name
       email
       user
+      note
       ethereumAddress
       primaryLocation {
         name
